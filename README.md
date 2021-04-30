@@ -6,3 +6,5 @@ while emitting small shpere shaped data nodes to eachother.
 
 The background is set to resize for various devices.
 The two main components are the BaseNode and the TravelNode.
+
+The background has an option to change color when signaled for processing.
